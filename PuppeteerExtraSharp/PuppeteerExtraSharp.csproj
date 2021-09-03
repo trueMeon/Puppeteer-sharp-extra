@@ -27,6 +27,7 @@
     <None Remove="Plugins\ExtraStealth\Scripts\Stacktrace.js" />
     <None Remove="Plugins\ExtraStealth\Scripts\Utils.js" />
     <None Remove="Plugins\ExtraStealth\Scripts\Vendor.js" />
+    <None Remove="Plugins\ExtraStealth\Scripts\ViewPortDisplayResolution.js" />
     <None Remove="Plugins\ExtraStealth\Scripts\WebDriver.js" />
     <None Remove="Plugins\ExtraStealth\Scripts\WebGL.js" />
     <None Remove="Plugins\Recaptcha\Scripts\EnterRecaptchaCallBackScript.js" />
@@ -46,6 +47,7 @@
     <EmbeddedResource Include="Plugins\ExtraStealth\Scripts\Stacktrace.js" />
     <EmbeddedResource Include="Plugins\ExtraStealth\Scripts\Utils.js" />
     <EmbeddedResource Include="Plugins\ExtraStealth\Scripts\Vendor.js" />
+    <EmbeddedResource Include="Plugins\ExtraStealth\Scripts\ViewPortDisplayResolution.js" />
     <EmbeddedResource Include="Plugins\ExtraStealth\Scripts\WebDriver.js" />
     <EmbeddedResource Include="Plugins\ExtraStealth\Scripts\WebGL.js" />
     <EmbeddedResource Include="Plugins\ExtraStealth\Scripts\ContentWindow.js" />
